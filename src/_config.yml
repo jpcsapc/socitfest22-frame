@@ -23,7 +23,7 @@ repository-link: "https://github.com/jpcsapc/fasticframe"
 # Copy
 # Fill in your copy for the title and steps here
 # 
-title-text: "SoCIT General Assembly 2022"
+title-text: "SoCIT Fest 2022"
 step-1: "Upload your picture or another square image below."
 step-2: "Use the photo tools to scale, rotate, and move your image over the preview."
 step-3: "Download your new profile picture:"
@@ -43,8 +43,8 @@ favicon: "favicon.ico"
 
 # Open Graph and Twitter Cards
 #
-og-title: SoCIT General Assembly 2022
-og-description: SoCIT General Assembly 2022
+og-title: SoCIT Fest 2022
+og-description: SoCIT Fest 2022
 og-url: https://jpcsapc.github.io/socitga22-frame
 og-image: "og-image.png"
 og-image-width: 1280
